@@ -11,6 +11,8 @@ WASD: Movement
 
 Shift: Sprint
 
+Space: Jump
+
 F: Interact
 
 G: Open Missions
